@@ -1,7 +1,7 @@
 ### Hi there, I'm Yusuf Samet Turan 👋
 
 🚀 **Mobile Developer | Kotlin & Android Enthusiast**
-💻 **Software Engineering Student
+💻 **Software Engineering Student**
 
 I am passionate about mobile development and always eager to learn new technologies. My main focus is on **Android development with Kotlin**.
 
@@ -12,7 +12,6 @@ I am passionate about mobile development and always eager to learn new technolog
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YSTuran&layout=compact&theme=light)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YSTuran&theme=light)
 
 ---
 
