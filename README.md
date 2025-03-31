@@ -1,6 +1,7 @@
 ### Hi there, I'm Yusuf Samet Turan 👋
 
 🚀 **Mobile Developer | Kotlin & Android Enthusiast**
+💻 **Software Engineering Student
 
 I am passionate about mobile development and always eager to learn new technologies. My main focus is on **Android development with Kotlin**.
 
