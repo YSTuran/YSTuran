@@ -62,9 +62,9 @@
 
 ---
 
-### ✨ Quote
+
 <p align="center">
-  💡 <i>"Keep coding, keep learning!"</i>
+  💡 <i>"No matter what, keep coding, keep learning!"</i>
 </p>
 
 
