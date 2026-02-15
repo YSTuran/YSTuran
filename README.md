@@ -21,16 +21,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YSTuran&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YSTuran&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-    height="165"
-  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YSTuran&show_icons=true&theme=tokyonight&cache_seconds=1800" 
+    alt="GitHub Stats" 
+    height="165" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YSTuran&layout=compact&theme=tokyonight&cache_seconds=1800" 
+    alt="Top Languages" 
+    height="165" 
+  />
 </p>
 
 ---
